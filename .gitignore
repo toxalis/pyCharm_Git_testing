@@ -4,3 +4,4 @@ Scripts/
 .idea/
 venv/
 pyvenv.cfg
+.env
